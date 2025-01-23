@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/Sound.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/Son.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/sonjeu.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/Cristiano_Ronaldo_Siuu__-_Sound_Effect.uasset",
+				"C:/Users/PAUL/Documents/Unreal Projects/Blockout_LD/Sound_Test/Content/Pikmin_Throw_Sound_Effect_from_Pikmin_1.uasset"
+			]
+		}
+	]
+}
